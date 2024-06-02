@@ -8,5 +8,7 @@ Rethinking Multilingual Scene Text Spotting: A novel approach with higher accura
 * CUDA compatible with TF 1.12
 
 * Install
-  pip install ultralytics
+* pip install ultralytics
+* pip install -r requirements.txt
+  
 
